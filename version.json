@@ -1,0 +1,6 @@
+{
+    "version": "1.0.1",
+    "download_url": "https://github.com/violentcodes/alkile-updates/releases/latest",
+    "changelog": "Initial public release with Windows Update Blocker and refined UI.",
+    "is_critical": true
+}
