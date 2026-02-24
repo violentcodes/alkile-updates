@@ -1,7 +1,8 @@
 {
     "version": "1.0.2",
     "download_url": "https://github.com/violentcodes/alkile-updates/releases/latest",
-    "changelog": "Initial public release with Windows Update Blocker and refined UI.",
+    "changelog": "Added registry tweaks for NVIDIA Overlay and Xbox Game Bar optimization.",
     "is_critical": true
 
 }
+
