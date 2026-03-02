@@ -1,9 +1,10 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "download_url": "https://github.com/violentcodes/alkile-updates/releases/latest",
-    "changelog": "Added registry tweaks for NVIDIA Overlay and Xbox Game Bar optimization.",
+    "changelog": "Added fan speed control and profiles.",
     "is_critical": true
 
 }
+
 
 
