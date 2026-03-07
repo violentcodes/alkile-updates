@@ -1,10 +1,11 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "download_url": "https://github.com/violentcodes/alkile-updates/releases/latest",
-    "changelog": "Added fan speed control and profiles.",
+    "changelog": "added many more tweaks and updated ui + added backup",
     "is_critical": true
 
 }
+
 
 
 
