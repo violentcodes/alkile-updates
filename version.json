@@ -1,10 +1,11 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "download_url": "https://github.com/violentcodes/alkile-updates/releases/latest",
-    "changelog": "added many more tweaks and updated ui + added backup",
+    "changelog": "updated updater",
     "is_critical": true
 
 }
+
 
 
 
